@@ -4,8 +4,6 @@ from django.views   import View
 from django.http    import JsonResponse
 
 from .models        import Cart
-from user.models    import User
-from product.models import Product, ProductSize
 from utils          import authorization
 
 class CartView(View):
