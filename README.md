@@ -1,7 +1,7 @@
 # Arket Website - Arket In Germany 🇩🇪 
 
-## ✔️ Project Overview
-- Git의 기본적인 Flow에 따른 방식 +  squash, git rebase를 적용하여 commit 내역을 깔끔하게 관리.
+## ✔️ Data Modeling
+![](https://images.velog.io/images/ggg9_/post/6b40431d-a749-4955-99c7-20b80bfa0bc3/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202020-12-02%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%206.56.25.png)
 
 ## 📅 Project Period
 - 2020.10.05(월) - 2020.10.16(금) (2주간)
